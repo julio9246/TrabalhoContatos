@@ -1,3 +1,0 @@
-user;contato;tel
-joao;Manoel;9988-7777
-
